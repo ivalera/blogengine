@@ -25,7 +25,7 @@ SECRET_KEY = 'krlf!+bj7#n^sc5s&_il_#to-avw@63tc&1=vq1ro9d8@%oj_h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['polar-everglades-24783.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = []
 
 
 # Application definition
